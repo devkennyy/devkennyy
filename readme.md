@@ -1,9 +1,12 @@
 <div align="center"> 
-
-![Yes](https://komarev.com/ghpvc/?username=devkennyy&style=flat-square&label=Total_Visitors&color=f68904)
-
+ 
+![Total Visit Counter](https://komarev.com/ghpvc/?username=devkennyy&style=flat-square&label=Total_Visitors&color=f68904&&style=for-the-badge)
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devkennyy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,git)](https://skillicons.dev) -->
 </div>
+
 
 <!-- ![](https://dcbadge.vercel.app/api/shield/717974888844886117?compact=true)-->
 
