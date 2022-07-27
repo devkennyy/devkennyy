@@ -20,6 +20,7 @@
  
 <details>
  <summary> <b>⚡ Recent Activity</b></summary>
+ <!--START_SECTION:activity-->
 </details>
 </div>
 
