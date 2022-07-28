@@ -1,7 +1,7 @@
 <div align="center"> 
 
 <h1> 👋 Hey, I'm Kenny </h1>
-<h3> Fullstack bug developer, transparency enthusiast and high school student. </h3>
+<h3> Fullstack bug developer, wingdings enthusiast and high school student. </h3>
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git)](https://skillicons.dev)
 </div>
