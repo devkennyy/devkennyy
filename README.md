@@ -4,6 +4,7 @@
 <h3> Fullstack bug developer, transparency enthusiast and high school student. </h3>
  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git)](https://skillicons.dev)
+</div>
  
 <details>
  <summary> <b>📊 Github Stats</b></summary>
@@ -16,6 +17,7 @@
 
 <details>
  <summary><b>⚡Recent Activity</b></summary>
+ 
  <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#10](https://github.com/devkennyy/devkennyy/pull/10) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
 2. 💪 Opened PR [#10](https://github.com/devkennyy/devkennyy/pull/10) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
@@ -36,5 +38,5 @@
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlnzp9s24yxie6ao0me0sksfd&cover_image=true&theme=default&bar_color_cover=false&bar_color=fb8c04)](https://github.com/kittinan/spotify-github-profile)
 
  </details>
-</div>
+
 
