@@ -14,9 +14,11 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devkennyy&theme=slateorange&show_icons=true&title_color=f58804&hide_border=true&bg_color=101414&hide_title=true&count_private=true)
 </details>
 
-# Recent Activity :zap:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<details>
+ <summary><b>⚡# Recent Activity</b></summary>
+ <!--START_SECTION:activity-->
+ <!--END_SECTION:activity-->
+</details>
 
 <details>
  <summary> <b>🎵 Listening To</b></summary>
