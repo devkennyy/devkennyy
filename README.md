@@ -15,7 +15,7 @@
 </details>
 
 <details>
- <summary><b>⚡# Recent Activity</b></summary>
+ <summary><b>⚡Recent Activity</b></summary>
  <!--START_SECTION:activity-->
  <!--END_SECTION:activity-->
 </details>
