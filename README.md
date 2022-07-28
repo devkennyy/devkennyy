@@ -19,16 +19,16 @@
  <summary><b>⚡Recent Activity</b></summary>
  
  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/devkennyy/devkennyy/pull/10) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-2. 💪 Opened PR [#10](https://github.com/devkennyy/devkennyy/pull/10) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-3. ❗️ Opened issue [#147](https://github.com/devkennyy/rungeon/issues/147) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-4. ❗️ Closed issue [#142](https://github.com/devkennyy/rungeon/issues/142) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-5. 🎉 Merged PR [#145](https://github.com/devkennyy/rungeon/pull/145) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-6. ❗️ Closed issue [#3](https://github.com/devkennyy/devkennyy/issues/3) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-7. ❗️ Closed issue [#8](https://github.com/devkennyy/devkennyy/issues/8) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-8. ❗️ Closed issue [#9](https://github.com/devkennyy/devkennyy/issues/9) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-9. ❗️ Opened issue [#9](https://github.com/devkennyy/devkennyy/issues/9) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-10. ❗️ Opened issue [#146](https://github.com/devkennyy/rungeon/issues/146) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+1. 💪 Opened PR [#11](https://github.com/devkennyy/devkennyy/pull/11) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+2. 🎉 Merged PR [#10](https://github.com/devkennyy/devkennyy/pull/10) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+3. 💪 Opened PR [#10](https://github.com/devkennyy/devkennyy/pull/10) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+4. ❗️ Opened issue [#147](https://github.com/devkennyy/rungeon/issues/147) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+5. ❗️ Closed issue [#142](https://github.com/devkennyy/rungeon/issues/142) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+6. 🎉 Merged PR [#145](https://github.com/devkennyy/rungeon/pull/145) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+7. ❗️ Closed issue [#3](https://github.com/devkennyy/devkennyy/issues/3) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+8. ❗️ Closed issue [#8](https://github.com/devkennyy/devkennyy/issues/8) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+9. ❗️ Closed issue [#9](https://github.com/devkennyy/devkennyy/issues/9) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+10. ❗️ Opened issue [#9](https://github.com/devkennyy/devkennyy/issues/9) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
  <!--END_SECTION:activity-->
 </details>
 
