@@ -2,7 +2,7 @@ name: 🦈 Update README with recent activity
 
 on:
   schedule:
-    - cron: '*/6 * * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
@@ -15,5 +15,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: ":zap: Updates recent activity"
+          COMMIT_MSG: "Updates recent activity"
           MAX_LINES: 10
