@@ -26,16 +26,16 @@
  <summary><b>⚡Recent Activity</b></summary>
  
  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/devkennyy/rungeon/issues/147) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-2. 🗣 Commented on [#147](https://github.com/devkennyy/rungeon/issues/147) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-3. 🎉 Merged PR [#11](https://github.com/devkennyy/devkennyy/pull/11) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-4. 💪 Opened PR [#11](https://github.com/devkennyy/devkennyy/pull/11) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-5. 🎉 Merged PR [#10](https://github.com/devkennyy/devkennyy/pull/10) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-6. 💪 Opened PR [#10](https://github.com/devkennyy/devkennyy/pull/10) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-7. ❗️ Opened issue [#147](https://github.com/devkennyy/rungeon/issues/147) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-8. ❗️ Closed issue [#142](https://github.com/devkennyy/rungeon/issues/142) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-9. 🎉 Merged PR [#145](https://github.com/devkennyy/rungeon/pull/145) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-10. ❗️ Closed issue [#3](https://github.com/devkennyy/devkennyy/issues/3) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+1. 💪 Opened PR [#7632](https://github.com/simple-icons/simple-icons/pull/7632) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#7631](https://github.com/simple-icons/simple-icons/issues/7631) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❌ Reopened PR [#7631](https://github.com/simple-icons/simple-icons/pull/7631) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❌ Closed PR [#7631](https://github.com/simple-icons/simple-icons/pull/7631) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 💪 Opened PR [#7631](https://github.com/simple-icons/simple-icons/pull/7631) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+6. 🗣 Commented on [#147](https://github.com/devkennyy/rungeon/issues/147) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+7. 🗣 Commented on [#147](https://github.com/devkennyy/rungeon/issues/147) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+8. 🎉 Merged PR [#11](https://github.com/devkennyy/devkennyy/pull/11) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+9. 💪 Opened PR [#11](https://github.com/devkennyy/devkennyy/pull/11) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+10. 🎉 Merged PR [#10](https://github.com/devkennyy/devkennyy/pull/10) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
  <!--END_SECTION:activity-->
 </details>
 
