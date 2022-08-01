@@ -26,16 +26,16 @@
  <summary><b>⚡Recent Activity</b></summary>
  
  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/devkennyy/rungeon/issues/156) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-2. 🎉 Merged PR [#155](https://github.com/devkennyy/rungeon/pull/155) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-3. ❗️ Closed issue [#150](https://github.com/devkennyy/rungeon/issues/150) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-4. 🗣 Commented on [#150](https://github.com/devkennyy/rungeon/issues/150) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-5. 🎉 Merged PR [#152](https://github.com/devkennyy/rungeon/pull/152) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-6. 🎉 Merged PR [#1](https://github.com/devkennyy/discord-reimagined/pull/1) in [devkennyy/discord-reimagined](https://github.com/devkennyy/discord-reimagined)
-7. 💪 Opened PR [#1](https://github.com/devkennyy/discord-reimagined/pull/1) in [devkennyy/discord-reimagined](https://github.com/devkennyy/discord-reimagined)
-8. 🎉 Merged PR [#151](https://github.com/devkennyy/rungeon/pull/151) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-9. ❗️ Opened issue [#150](https://github.com/devkennyy/rungeon/issues/150) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-10. 🎉 Merged PR [#149](https://github.com/devkennyy/rungeon/pull/149) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+1. ❗️ Opened issue [#9](https://github.com/nathanielop/achievements/issues/9) in [nathanielop/achievements](https://github.com/nathanielop/achievements)
+2. 🗣 Commented on [#156](https://github.com/devkennyy/rungeon/issues/156) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+3. 🎉 Merged PR [#155](https://github.com/devkennyy/rungeon/pull/155) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+4. ❗️ Closed issue [#150](https://github.com/devkennyy/rungeon/issues/150) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+5. 🗣 Commented on [#150](https://github.com/devkennyy/rungeon/issues/150) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+6. 🎉 Merged PR [#152](https://github.com/devkennyy/rungeon/pull/152) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+7. 🎉 Merged PR [#1](https://github.com/devkennyy/discord-reimagined/pull/1) in [devkennyy/discord-reimagined](https://github.com/devkennyy/discord-reimagined)
+8. 💪 Opened PR [#1](https://github.com/devkennyy/discord-reimagined/pull/1) in [devkennyy/discord-reimagined](https://github.com/devkennyy/discord-reimagined)
+9. 🎉 Merged PR [#151](https://github.com/devkennyy/rungeon/pull/151) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+10. ❗️ Opened issue [#150](https://github.com/devkennyy/rungeon/issues/150) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
  <!--END_SECTION:activity-->
 </details>
 
