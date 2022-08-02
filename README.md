@@ -2,7 +2,7 @@
 <h1> Hey, I'm Kenny👋 </h1>
 <h3> 🐛 Fullstack bug developer, wingdings enthusiast and high school student. </h3>
 
-[![Los Pollos Hermanos#6843](https://img.shields.io/badge/Los_Pollos_Hermanos%236843-5865F2?logo=discord&logoColor=ffffff)](https://discordapp.com/users/717974888844886117)
+[![Los Pollos Hermanos#6843](https://img.shields.io/badge/Lumpy%236843-5865F2?logo=discord&logoColor=ffffff)](https://discordapp.com/users/717974888844886117)
 [![devkenny@outlook.com](https://img.shields.io/badge/devkenny%40outlook.com-0078d4?logo=Microsoft+Outlook&logoColor=ffffff)](mailto:devkenny@outlook.com)
 [![devkennyy](https://img.shields.io/badge/devkennyy-181717?logo=github&logoColor=ffffff)](https://github.com/devkennyy)
 
