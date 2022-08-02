@@ -26,16 +26,16 @@
  <summary><b>⚡Recent Activity</b></summary>
  
  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/devkennyy/devkennyy/pull/12) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-2. 💪 Opened PR [#12](https://github.com/devkennyy/devkennyy/pull/12) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-3. 🎉 Merged PR [#2](https://github.com/devkennyy/achievement-playground/pull/2) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-4. 💪 Opened PR [#2](https://github.com/devkennyy/achievement-playground/pull/2) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-5. ❗️ Opened issue [#9](https://github.com/nathanielop/achievements/issues/9) in [nathanielop/achievements](https://github.com/nathanielop/achievements)
-6. 🗣 Commented on [#156](https://github.com/devkennyy/rungeon/issues/156) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-7. 🎉 Merged PR [#155](https://github.com/devkennyy/rungeon/pull/155) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-8. ❗️ Closed issue [#150](https://github.com/devkennyy/rungeon/issues/150) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-9. 🗣 Commented on [#150](https://github.com/devkennyy/rungeon/issues/150) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-10. 🎉 Merged PR [#152](https://github.com/devkennyy/rungeon/pull/152) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+1. 🎉 Merged PR [#13](https://github.com/devkennyy/devkennyy/pull/13) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+2. 💪 Opened PR [#13](https://github.com/devkennyy/devkennyy/pull/13) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+3. 💪 Opened PR [#157](https://github.com/devkennyy/rungeon/pull/157) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+4. 🎉 Merged PR [#12](https://github.com/devkennyy/devkennyy/pull/12) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+5. 💪 Opened PR [#12](https://github.com/devkennyy/devkennyy/pull/12) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+6. 🎉 Merged PR [#2](https://github.com/devkennyy/achievement-playground/pull/2) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+7. 💪 Opened PR [#2](https://github.com/devkennyy/achievement-playground/pull/2) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+8. ❗️ Opened issue [#9](https://github.com/nathanielop/achievements/issues/9) in [nathanielop/achievements](https://github.com/nathanielop/achievements)
+9. 🗣 Commented on [#156](https://github.com/devkennyy/rungeon/issues/156) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+10. 🎉 Merged PR [#155](https://github.com/devkennyy/rungeon/pull/155) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
  <!--END_SECTION:activity-->
 </details>
 
