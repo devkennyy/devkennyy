@@ -26,16 +26,16 @@
  <summary><b>⚡Recent Activity</b></summary>
  
  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/devkennyy/achievement-playground/pull/6) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-2. 💪 Opened PR [#6](https://github.com/devkennyy/achievement-playground/pull/6) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-3. 🎉 Merged PR [#5](https://github.com/devkennyy/achievement-playground/pull/5) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-4. 🗣 Commented on [#5](https://github.com/devkennyy/achievement-playground/issues/5) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-5. 🎉 Merged PR [#14](https://github.com/devkennyy/devkennyy/pull/14) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-6. 💪 Opened PR [#14](https://github.com/devkennyy/devkennyy/pull/14) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-7. 🗣 Commented on [#9](https://github.com/nathanielop/achievements/issues/9) in [nathanielop/achievements](https://github.com/nathanielop/achievements)
-8. 🎉 Merged PR [#13](https://github.com/devkennyy/devkennyy/pull/13) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-9. 💪 Opened PR [#13](https://github.com/devkennyy/devkennyy/pull/13) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
-10. 💪 Opened PR [#157](https://github.com/devkennyy/rungeon/pull/157) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+1. 🎉 Merged PR [#7](https://github.com/devkennyy/achievement-playground/pull/7) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+2. 🎉 Merged PR [#6](https://github.com/devkennyy/achievement-playground/pull/6) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+3. 💪 Opened PR [#6](https://github.com/devkennyy/achievement-playground/pull/6) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+4. 🎉 Merged PR [#5](https://github.com/devkennyy/achievement-playground/pull/5) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+5. 🗣 Commented on [#5](https://github.com/devkennyy/achievement-playground/issues/5) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+6. 🎉 Merged PR [#14](https://github.com/devkennyy/devkennyy/pull/14) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+7. 💪 Opened PR [#14](https://github.com/devkennyy/devkennyy/pull/14) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+8. 🗣 Commented on [#9](https://github.com/nathanielop/achievements/issues/9) in [nathanielop/achievements](https://github.com/nathanielop/achievements)
+9. 🎉 Merged PR [#13](https://github.com/devkennyy/devkennyy/pull/13) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
+10. 💪 Opened PR [#13](https://github.com/devkennyy/devkennyy/pull/13) in [devkennyy/devkennyy](https://github.com/devkennyy/devkennyy)
  <!--END_SECTION:activity-->
 </details>
 
