@@ -26,16 +26,16 @@
  <summary><b>⚡Recent Activity</b></summary>
  
  <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4877](https://github.com/EddieHubCommunity/support/issues/4877) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-3. ❗️ Opened issue [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-4. ❗️ Opened issue [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-5. ❗️ Opened issue [#1](https://github.com/devkennyy/repodata/issues/1) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-6. 🎉 Merged PR [#7](https://github.com/devkennyy/achievement-playground/pull/7) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-7. 🎉 Merged PR [#6](https://github.com/devkennyy/achievement-playground/pull/6) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-8. 💪 Opened PR [#6](https://github.com/devkennyy/achievement-playground/pull/6) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-9. 🎉 Merged PR [#5](https://github.com/devkennyy/achievement-playground/pull/5) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-10. 🗣 Commented on [#5](https://github.com/devkennyy/achievement-playground/issues/5) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+1. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+2. ❗️ Opened issue [#4877](https://github.com/EddieHubCommunity/support/issues/4877) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+4. ❗️ Opened issue [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+5. ❗️ Opened issue [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+6. ❗️ Opened issue [#1](https://github.com/devkennyy/repodata/issues/1) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+7. 🎉 Merged PR [#7](https://github.com/devkennyy/achievement-playground/pull/7) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+8. 🎉 Merged PR [#6](https://github.com/devkennyy/achievement-playground/pull/6) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+9. 💪 Opened PR [#6](https://github.com/devkennyy/achievement-playground/pull/6) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+10. 🎉 Merged PR [#5](https://github.com/devkennyy/achievement-playground/pull/5) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
  <!--END_SECTION:activity-->
 </details>
 
