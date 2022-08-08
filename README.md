@@ -26,16 +26,16 @@
  <summary><b>⚡Recent Activity</b></summary>
  
  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-2. 🗣 Commented on [#4](https://github.com/devkennyy/repodata/issues/4) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-3. 🎉 Merged PR [#4](https://github.com/devkennyy/repodata/pull/4) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+1. ❗️ Closed issue [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+2. ❗️ Closed issue [#34](https://github.com/devkennyy/rungeon/issues/34) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+3. 🎉 Merged PR [#153](https://github.com/devkennyy/rungeon/pull/153) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
 4. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-5. ❗️ Opened issue [#4877](https://github.com/EddieHubCommunity/support/issues/4877) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-6. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-7. ❗️ Opened issue [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-8. ❗️ Opened issue [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-9. ❗️ Opened issue [#1](https://github.com/devkennyy/repodata/issues/1) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-10. 🎉 Merged PR [#7](https://github.com/devkennyy/achievement-playground/pull/7) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
+5. 🗣 Commented on [#4](https://github.com/devkennyy/repodata/issues/4) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+6. 🎉 Merged PR [#4](https://github.com/devkennyy/repodata/pull/4) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+7. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+8. ❗️ Opened issue [#4877](https://github.com/EddieHubCommunity/support/issues/4877) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+9. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+10. ❗️ Opened issue [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
  <!--END_SECTION:activity-->
 </details>
 
