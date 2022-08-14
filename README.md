@@ -26,16 +26,16 @@
  <summary><b>⚡Recent Activity</b></summary>
  
  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-2. 💪 Opened PR [#54](https://github.com/Henrik-3/unofficial-valorant-api/pull/54) in [Henrik-3/unofficial-valorant-api](https://github.com/Henrik-3/unofficial-valorant-api)
+1. ❗️ Closed issue [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+2. 🎉 Merged PR [#5](https://github.com/devkennyy/repodata/pull/5) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
 3. 🗣 Commented on [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-4. ❗️ Closed issue [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-5. ❗️ Closed issue [#34](https://github.com/devkennyy/rungeon/issues/34) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-6. 🎉 Merged PR [#153](https://github.com/devkennyy/rungeon/pull/153) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
-7. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-8. 🗣 Commented on [#4](https://github.com/devkennyy/repodata/issues/4) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-9. 🎉 Merged PR [#4](https://github.com/devkennyy/repodata/pull/4) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-10. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+4. 💪 Opened PR [#54](https://github.com/Henrik-3/unofficial-valorant-api/pull/54) in [Henrik-3/unofficial-valorant-api](https://github.com/Henrik-3/unofficial-valorant-api)
+5. 🗣 Commented on [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+6. ❗️ Closed issue [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+7. ❗️ Closed issue [#34](https://github.com/devkennyy/rungeon/issues/34) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+8. 🎉 Merged PR [#153](https://github.com/devkennyy/rungeon/pull/153) in [devkennyy/rungeon](https://github.com/devkennyy/rungeon)
+9. 🗣 Commented on [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
+10. 🗣 Commented on [#4](https://github.com/devkennyy/repodata/issues/4) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
  <!--END_SECTION:activity-->
 </details>
 
