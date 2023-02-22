@@ -7,37 +7,4 @@
 [![@0xkennyfr](https://img.shields.io/badge/%400xkennyfr-1DA1F2?logo=twitter&logoColor=white)](https://)
 
 </div>
-<details>
- <summary> <b>🛠️ My Tools</b></summary>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,html,css,jquery,react,vscode,nodejs&perline=3)](https://skillicons.dev)
-</details>
-
-<details>
- <summary> <b>📊 Github Stats</b></summary>
-  <br/>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devkennyy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devkennyy&theme=slateorange&show_icons=true&title_color=f58804&hide_border=true&bg_color=101414&hide_title=true&count_private=true)
-</details>
-
-<details>
- <summary><b>⚡Recent Activity</b></summary>
- 
- <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/devkennyy/achievement-playground/pull/10) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-2. 🎉 Merged PR [#9](https://github.com/devkennyy/achievement-playground/pull/9) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-3. 🗣 Commented on [#9](https://github.com/devkennyy/achievement-playground/issues/9) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-4. 🗣 Commented on [#8](https://github.com/devkennyy/achievement-playground/issues/8) in [devkennyy/achievement-playground](https://github.com/devkennyy/achievement-playground)
-5. ❗️ Closed issue [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-6. 🎉 Merged PR [#5](https://github.com/devkennyy/repodata/pull/5) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-7. 🗣 Commented on [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-8. 💪 Opened PR [#54](https://github.com/Henrik-3/unofficial-valorant-api/pull/54) in [Henrik-3/unofficial-valorant-api](https://github.com/Henrik-3/unofficial-valorant-api)
-9. 🗣 Commented on [#3](https://github.com/devkennyy/repodata/issues/3) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
-10. ❗️ Closed issue [#2](https://github.com/devkennyy/repodata/issues/2) in [devkennyy/repodata](https://github.com/devkennyy/repodata)
- <!--END_SECTION:activity-->
-</details>
-
-
 
