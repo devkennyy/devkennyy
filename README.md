@@ -39,11 +39,5 @@
  <!--END_SECTION:activity-->
 </details>
 
-<details>
- <summary> <b>🎵 Listening To</b></summary>
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlnzp9s24yxie6ao0me0sksfd&cover_image=true&theme=default&bar_color_cover=false&bar_color=fb8c04)](https://github.com/kittinan/spotify-github-profile)
-
- </details>
 
 
