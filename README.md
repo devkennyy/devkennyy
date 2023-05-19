@@ -10,7 +10,7 @@
 <details>
  <summary> <b>🛠️ My Tools</b></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=js,git,html,css,jquery,nextjs,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nextjs,vscode)](https://skillicons.dev)
 </details>
 
 </div>
