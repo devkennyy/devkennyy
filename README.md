@@ -8,7 +8,7 @@
 </div>
 
 <details>
- <summary> <b>🛠️ My Tools</b></summary>
+ <summary> <b>🛠️ My Skills</b></summary>
 
 [![My Skills](https://skillicons.dev/icons?i=js,nextjs,vscode)](https://skillicons.dev)
 </details>
